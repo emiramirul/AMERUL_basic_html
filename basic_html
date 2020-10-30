@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+			<h1><center>This is Heading</h1>
+            
+<i><p style="color: Blue;">Lorem ipsum dolor sit amet..</p><i>
+<i><p style="color: Blue;">consectetur adipiscing elit..</p><i>
+<i><p style="color: Blue;">Cras luctus felis ac laoreet fermentum..</p><i>
+
+<center><b><p style="color: Black;">Lorem ipsum dolor sit amet..</p><b>
+
+</body>
+</html>
